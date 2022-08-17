@@ -53,5 +53,5 @@
 {"cell_type":"markdown","id":"fe94d6","input":"**TODO:** Now, let's have some fun. Can you create plots using the following functions?\n\n1. Scatter Plot: [https://pandas.pydata.org/pandas\\-docs/version/0.25.0/reference/api/pandas.DataFrame.plot.scatter.html](https://pandas.pydata.org/pandas-docs/version/0.25.0/reference/api/pandas.DataFrame.plot.scatter.html)\n2. Pie Plot: [https://pandas.pydata.org/docs/user\\_guide/visualization.html\\#visualization\\-pie](https://pandas.pydata.org/docs/user_guide/visualization.html#visualization-pie)\n\nPro challenge: Add a title to each!\n\n","pos":37,"type":"cell"}
 {"cell_type":"raw","id":"3cf522","input":"What do these columns mean?\n\n\n\n\n\n\n","pos":11,"type":"cell"}
 {"cell_type":"raw","id":"6dbb77","input":"Write up some descriptions for your findings here....\n\n\n\n\n","pos":52,"type":"cell"}
-{"id":0,"time":1660671903425,"type":"user"}
-{"last_load":1660668011145,"type":"file"}
+{"id":0,"time":1660757184614,"type":"user"}
+{"last_load":1660757183037,"type":"file"}

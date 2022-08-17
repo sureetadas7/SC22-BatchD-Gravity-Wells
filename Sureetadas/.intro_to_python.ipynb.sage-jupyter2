@@ -100,5 +100,5 @@
 {"cell_type":"markdown","id":"f219d4","input":"You can also get various details about the dataframe with the following functions.\n","pos":93,"type":"cell"}
 {"cell_type":"markdown","id":"fa6fe5","input":"Additionally, we can use elif statements to add additional conditions to the structure.","pos":45,"type":"cell"}
 {"cell_type":"markdown","id":"fce9ed","input":"Or a list of random decimal numbers like this:\n\n","pos":77,"type":"cell"}
-{"id":0,"time":1660573794297,"type":"user"}
-{"last_load":1660582909073,"type":"file"}
+{"id":0,"time":1660757116921,"type":"user"}
+{"last_load":1660756350962,"type":"file"}

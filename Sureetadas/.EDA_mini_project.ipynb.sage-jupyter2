@@ -53,5 +53,5 @@
 {"cell_type":"markdown","id":"fa3aeb","input":"**TODO: Create a histogram of another column of your choice below.**\n","pos":36,"type":"cell"}
 {"cell_type":"raw","id":"841b1e","input":"What do these columns mean?\n\nThe columns give background information on the penguins. \nClutch completion-a character string denoting if the study nest observed with a full clutch\nculmen-upper ridge of a birds bill\n\n\n","pos":12,"type":"cell"}
 {"cell_type":"raw","id":"b6e840","input":"Write up some descriptions for your findings here....\n\n\n\n\n","pos":52,"type":"cell"}
-{"id":0,"time":1660668630714,"type":"user"}
-{"last_load":1660667939704,"type":"file"}
+{"id":0,"time":1660760289549,"type":"user"}
+{"last_load":1660755713346,"type":"file"}
